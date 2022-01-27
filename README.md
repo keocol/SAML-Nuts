@@ -1,6 +1,6 @@
 # SAML-Nuts
 
-SAML-Nuts are simple python scripts acting as templates to build upon it and deploy different SAML implementation attacks.
+SAML-Nuts are simple python scripts acting as templates to build upon it and deploy different SAML implementation attacks. There's an assumption here that you're already familiar with SAML and its attacks. If you need to learn about it, check the references.
 
 
 
