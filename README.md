@@ -15,9 +15,13 @@ python3 SAMLRequest_dec_enc.py
 A lot of resources can be found out there, below are the ones I found best.
 
 https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
+
 https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/
+
 https://book.hacktricks.xyz/pentesting-web/saml-attacks/saml-basics
+
 https://book.hacktricks.xyz/pentesting-web/saml-attacks
+
 https://pentesterlab.com/badges/auth
 
 ## License
