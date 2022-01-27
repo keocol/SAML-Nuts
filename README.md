@@ -2,6 +2,8 @@
 
 SAML-Nuts are simple python scripts acting as templates to build upon it and deploy different SAML implementation attacks.
 
+<br>
+
 ## Usage Sample
 
 Simply run the script and follow it.
@@ -9,6 +11,8 @@ Simply run the script and follow it.
 ```python
 python3 SAMLRequest_dec_enc.py
 ```
+
+<br>
 
 ## SAML Attacks References
 
@@ -23,6 +27,8 @@ https://book.hacktricks.xyz/pentesting-web/saml-attacks/saml-basics
 https://book.hacktricks.xyz/pentesting-web/saml-attacks
 
 https://pentesterlab.com/badges/auth
+
+<br>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
