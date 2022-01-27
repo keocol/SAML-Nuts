@@ -1,2 +1,2 @@
 # SAML-Nuts
-Simple python scripts to deploy different SAML implementation attacks. It assumes you know your way around SAML attacks and just need to save some time....
+Simple python scripts "use them as templates to build upon" to deploy different SAML implementation attacks. 
